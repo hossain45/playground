@@ -1,30 +1,29 @@
-# React + TypeScript + Vite
+# "Playground For React-ts with TailwindCSS"
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+### Author Links
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👋 Hello, I'm Hossain Md Athar from WebCraft With Hossain.
 
-## Expanding the ESLint configuration
+✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/@webcraft_with_hossain).
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+🚩 [Subscribe to my channel](https://bit.ly/subscribe-wwh)
 
-- Configure the top-level `parserOptions` property like this:
+👇 Follow Me:
+- [Twitter](https://x.com/AtharHm)
+- [LinkedIn](https://www.linkedin.com/in/hm-athar/)
+- [Blog](https://dev.to/hossain45)
+---
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+### Description
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+📺 This repository shares all the resources referenced in my YouTube shorts.
+
+---
+
+### 🎓 Academic Honesty
+
+**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiarism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+
+---
