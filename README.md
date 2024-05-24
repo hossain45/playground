@@ -18,7 +18,7 @@
 
 ### Description
 
-📺 This repository shares all the resources referenced in my YouTube shorts.
+📺 This repository shares all the resources referenced in my YouTube shorts and other miscellaneous tutorials.
 
 ---
 
