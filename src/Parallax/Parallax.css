@@ -1,0 +1,37 @@
+/*
+  steps to create scrolling effect
+    1. set the image
+    2. set a specific height 
+    3. Create the parallax scrolling effect
+*/
+
+.parallax {
+ background-image: url(https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1716486929~exp=1716490529~hmac=5440feb9af3ba08df8474c17c702637ad5991f44249137f6a21c97b77360ff5e&w=1380);
+
+ min-height: 50vh;
+
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
